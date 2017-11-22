@@ -1,18 +1,34 @@
 Tests A/B
-=========
+===
 
-Category
---------
-Current Performance
+Catégorie
+---
+Tester
 
-Summary
---------
-A/B Testing, or Split Testing, is a method of testing one change on a page – the wording of a headline or the placement of a button, for example – to see how it performs compared to the original. Users follow one URL and are either shown the original (version A, the control) or redirected to an edited version (version B, the treatment).
+Illustration
+---
+![Illustration Test A/B](../assets/img/Tests-AB.png)
 
-For information on testing multiple changes in different combinations, see [Multivariate Testing](Tests-multivariés.md).
+Résumé
+---
+Le test A/B teste un changement sur un produit / site et détermine la version qui donne les meilleurs résultats auprès des consommateurs.
 
-Schedule Time & Gather Materials
---------
+Temps alloué
+---
+1 à 2 semaines
 
-Method
-------
+Materiel nécessaire
+---
+2 versions d'un site et un système de redirection aléatoire
+
+Methode
+---
+1. Déterminez votre métrique de succès (Temps passé, vents, inscriptions...).
+2. Déterminez l'élément qui doit être modifié et testé (couleur, wording, images...).
+3. Formulez une hypothèse pour fixer la problématique rencontrée, et appliquez là à la version B.
+4. Utilisez un outil d'A/B testing pour servir aléatoirement l'une des deux versions.
+5. Lancez le test approximativement 2 semaines pour avoir un nombre significatif d'utilisateurs.
+
+Similaire
+---
+[Tests Multivariés](Tests-multivariés.md).
