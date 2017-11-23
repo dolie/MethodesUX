@@ -10,6 +10,7 @@ Classification
    * [Diagramme d'affinité](./methodes/Diagramme-affinite.md)
    * [Brainstorming](./methodes/Brainstorming.md)
 4. Prototyper
+   * [Six-to-One](./methodes/Six-to-One.md)
 5. Tester
    * [Tests A/B](./methodes/Tests-AB.md)
    * [Audit d'accessibilité](./methodes/Audit-accessibilite.md)
