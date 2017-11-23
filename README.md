@@ -6,6 +6,7 @@ Classification
 1. Empathie
 2. Définir
 3. Idéaliser
+   * [Diagramme d'affinité](./methodes/Diagramme-affinite.md)
 4. Prototyper
 5. Tester
    * [Tests A/B](./methodes/Tests-AB.md)
