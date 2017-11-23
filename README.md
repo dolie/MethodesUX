@@ -16,3 +16,4 @@ Classification
    * [Audit d'accessibilité](./methodes/Audit-accessibilite.md)
    * [5 secondes](./methodes/Cinq-secondes.md)
    * [Flux de clics](./methodes/Flux-clics.md)
+   * [HEART by Google](./methodes/HEART-by-Google.md)
