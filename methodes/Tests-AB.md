@@ -15,20 +15,20 @@ Le test A/B teste un changement sur un produit / site et détermine la version q
 
 Temps alloué
 ---
-1 à 2 semaines
+1 à 2 semaines.
 
-Materiel nécessaire
+Matériel nécessaire
 ---
-2 versions d'un site et un système de redirection aléatoire
+2 versions d'un site et un système de redirection aléatoire.
 
-Methode
+Méthode
 ---
-1. Déterminez votre métrique de succès (Temps passé, vents, inscriptions...).
+1. Déterminez votre métrique de succès (Temps passé, ventes, inscriptions...).
 2. Déterminez l'élément qui doit être modifié et testé (couleur, wording, images...).
-3. Formulez une hypothèse pour fixer la problématique rencontrée, et appliquez là à la version B.
+3. Formulez une hypothèse pour résoudre la problématique rencontrée, et appliquez là sur la version B.
 4. Utilisez un outil d'A/B testing pour servir aléatoirement l'une des deux versions.
 5. Lancez le test approximativement 2 semaines pour avoir un nombre significatif d'utilisateurs.
 
 Similaire
 ---
-[Tests Multivariés](Tests-multivariés.md).
+[Tests Multivariés](Tests-multivariés.md)
