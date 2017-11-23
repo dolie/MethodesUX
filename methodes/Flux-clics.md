@@ -1,6 +1,10 @@
 Flux de clics
 ===
 
+Catégorie
+---
+Tester
+
 Résumé
 ---
 Le flux de clics vous aide à savoir comment les utilisateurs agissent, et où sont les points de souffrance.

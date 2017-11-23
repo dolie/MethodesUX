@@ -1,6 +1,10 @@
 Brainstorming
 ===
 
+Catégorie
+---
+Idéaliser
+
 Résumé
 ---
 Le but est de générer le plus d'idée sans jugement. Les idées sont affinées au fil de la session. Les participants peuvent alors émettre des idées inhabituelles.
