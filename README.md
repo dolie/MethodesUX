@@ -14,3 +14,4 @@ Classification
    * [Tests A/B](./methodes/Tests-AB.md)
    * [Audit d'accessibilité](./methodes/Audit-accessibilite.md)
    * [5 secondes](./methodes/Cinq-secondes.md)
+   * [Flux de clics](./methodes/Flux-clics.md)
