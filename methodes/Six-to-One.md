@@ -5,6 +5,10 @@ Catégorie
 ---
 Prototyper
 
+Illustration
+---
+![Illustration Six-up](../assets/img/Six-to-One.png)
+
 Résumé
 ---
 Rapide à mettre en place et ludique, elle permet de générer, développer et affiner les idées. Elle s'applique pour des interfaces mobile ou web
