@@ -4,6 +4,7 @@ Listing/Traduction/Classification des méthodes UX pour le développement de sys
 Classification
 --------------
 1. Empathie
+   * [Analyse d'artéfact](./methodes/Analyse-artefact.md)
 2. Définir
 3. Idéaliser
    * [Diagramme d'affinité](./methodes/Diagramme-affinite.md)
