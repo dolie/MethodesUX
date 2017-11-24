@@ -1,5 +1,7 @@
 # MethodesUX
-Listing/Traduction/Classification des méthodes UX pour le développement de systèmes interactifs 
+Listing/Classification des méthodes UX pour le développement de systèmes interactifs
+
+Toute contribution est la bienvenue ! [fiche gabarit](./assets/fiche-gabarit.md)
 
 Classification
 --------------
