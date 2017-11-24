@@ -10,6 +10,7 @@ Classification
    * [User Journey Map](./methodes/User-Journey-Map.md)
    * [Carte d'Empathie](./methodes/Empathy-map.md)
 2. Définir
+   * [Personae](./methodes/Personae.md)
    * [Modèle de Kano](./methodes/Modele-Kano.md)
 3. Idéaliser
    * [Tri de carte](./methodes/Diagramme-affinite.md)
