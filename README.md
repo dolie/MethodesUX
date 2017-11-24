@@ -18,6 +18,7 @@ Classification
    * [Brainstorming](./methodes/Brainstorming.md)
 4. Prototyper
    * [Six-to-One](./methodes/Six-to-One.md)
+   * [Wireframes](./methodes/wireframes.md)
 5. Tester
    * [Tests A/B](./methodes/Tests-AB.md)
    * [Audit d'accessibilité](./methodes/Audit-accessibilite.md)
