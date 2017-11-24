@@ -9,6 +9,7 @@ Classification
    * [Analyse d'artéfact](./methodes/Analyse-artefact.md)
    * [User Journey Map](./methodes/User-Journey-Map.md)
    * [Carte d'Empathie](./methodes/Empathy-map.md)
+   * [Fly on the wall](./methodes/FOTW.md)
 2. Définir
    * [Personae](./methodes/Personae.md)
    * [Modèle de Kano](./methodes/Modele-Kano.md)
