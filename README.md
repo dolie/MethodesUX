@@ -19,6 +19,7 @@ Classification
 4. Prototyper
    * [Six-to-One](./methodes/Six-to-One.md)
    * [Wireframes](./methodes/wireframes.md)
+   * [Plan de site](./methodes/sitemap.md)
 5. Tester
    * [Tests A/B](./methodes/Tests-AB.md)
    * [Audit d'accessibilité](./methodes/Audit-accessibilite.md)
