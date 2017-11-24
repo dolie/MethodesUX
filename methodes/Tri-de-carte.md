@@ -1,4 +1,4 @@
-Diagramme d'affinité
+Tri de carte
 ===
 
 Catégorie

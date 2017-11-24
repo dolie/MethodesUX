@@ -7,7 +7,7 @@ Classification
    * [Analyse d'artéfact](./methodes/Analyse-artefact.md)
 2. Définir
 3. Idéaliser
-   * [Diagramme d'affinité](./methodes/Diagramme-affinite.md)
+   * [Tri de carte](./methodes/Diagramme-affinite.md)
    * [Brainstorming](./methodes/Brainstorming.md)
 4. Prototyper
    * [Six-to-One](./methodes/Six-to-One.md)
