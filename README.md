@@ -8,6 +8,7 @@ Classification
 1. Empathie
    * [Analyse d'artéfact](./methodes/Analyse-artefact.md)
    * [User Journey Map](./methodes/User-Journey-Map.md)
+   * [Carte d'Empathie](./methodes/Empathy-map.md)
 2. Définir
    * [Modèle de Kano](./methodes/Modele-Kano.md)
 3. Idéaliser
