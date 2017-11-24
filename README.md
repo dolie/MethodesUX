@@ -9,6 +9,7 @@ Classification
    * [Analyse d'artéfact](./methodes/Analyse-artefact.md)
    * [User Journey Map](./methodes/User-Journey-Map.md)
 2. Définir
+   * [Modèle de Kano](./methodes/Modele-Kano.md)
 3. Idéaliser
    * [Tri de carte](./methodes/Diagramme-affinite.md)
    * [Brainstorming](./methodes/Brainstorming.md)
