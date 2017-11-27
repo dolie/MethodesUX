@@ -14,7 +14,7 @@ Classification
    * [Personae](./methodes/Personae.md)
    * [Modèle de Kano](./methodes/Modele-Kano.md)
 3. Idéaliser
-   * [Tri de carte](./methodes/Diagramme-affinite.md)
+   * [Diagramme d'affinité](./methodes/diagramme-affinite.md)
    * [Brainstorming](./methodes/Brainstorming.md)
 4. Prototyper
    * [Six-to-One](./methodes/Six-to-One.md)
