@@ -3,7 +3,7 @@ Carte d'Empathie
 
 Catégorie
 ---
-Définir
+Exploration
 
 Illustration
 ---
@@ -11,7 +11,7 @@ Illustration
 
 Résumé
 ---
-C'est une illustration graphique de l'experience d'un persona dans un scenario particulier. Il peut être utilisé avec une User Journey Map pour étoffer le comportement d'un persona et renforcer votre connection emotionnelle avec celui ci.
+C'est une illustration graphique de l'expérience d'un personae dans un scenario particulier. Il peut être utilisé avec une User Journey Map pour étoffer le comportement d'un personae et renforcer votre connexion emotionnelle avec celui ci.
 
 Temps alloué
 ---
@@ -25,5 +25,5 @@ Méthode
 ---
 1. Définissez les personae et le/les scenarios.
 2. Présentez les à l'équipe. 
-3. L'équipe brainstorm pour remplir la carte d'empathie.
-4. Récupérez et la synthèse de leur réflexion et de leur carte d'empathie.
+3. L'équipe brainstorm et remplie la carte d'empathie.
+4. Récupérez et faites la synthèse de la carte d'empathie et de leur reflexion.

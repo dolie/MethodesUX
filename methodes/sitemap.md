@@ -3,7 +3,7 @@ Plan de site
 
 Catégorie
 ---
-Prototyper
+Génération
 
 Illustration
 ---

@@ -3,7 +3,7 @@ HEART by Google
 
 Catégorie
 ---
-Tester
+Évaluation
 
 Illustration
 ---

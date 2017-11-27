@@ -3,7 +3,7 @@ Audit d'accessibilité
 
 Catégorie
 ---
-Tester
+Évaluation
 
 Résumé
 ---

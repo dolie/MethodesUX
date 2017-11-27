@@ -3,7 +3,7 @@ User Journey Map
 
 Catégorie
 ---
-Empathie
+Exploration
 
 Illustration
 ---

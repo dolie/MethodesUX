@@ -3,7 +3,7 @@ Fly on the wall
 
 Catégorie
 ---
-Empathie
+Exploration
 
 Résumé
 ---

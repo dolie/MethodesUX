@@ -3,7 +3,7 @@ Tests A/B
 
 Catégorie
 ---
-Tester
+Évaluation
 
 Illustration
 ---

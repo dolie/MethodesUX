@@ -3,7 +3,7 @@ Flux de clics
 
 Catégorie
 ---
-Tester
+Évaluation
 
 Résumé
 ---

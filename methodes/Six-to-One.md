@@ -3,7 +3,7 @@ Six to One
 
 Catégorie
 ---
-Prototyper
+Génération
 
 Illustration
 ---

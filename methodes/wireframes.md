@@ -3,7 +3,7 @@ Wireframes
 
 Catégorie
 ---
-Prototyper
+Génération
 
 Illustration
 ---

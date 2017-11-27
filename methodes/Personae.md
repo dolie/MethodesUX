@@ -3,7 +3,7 @@ Personae
 
 Catégorie
 ---
-Définir
+Idéation
 
 Illustration
 ---

@@ -3,7 +3,7 @@ Diagramme d'affinité
 
 Catégorie
 ---
-Idéaliser
+Idéation
 
 Résumé
 ---

@@ -3,7 +3,7 @@ Modèle de Kano
 
 Catégorie
 ---
-Définir
+Idéation
 
 Illustration
 ---

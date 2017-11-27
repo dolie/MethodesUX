@@ -3,7 +3,7 @@ Analyse d'artéfact
 
 Catégorie
 ---
-Empathie
+Exploration
 
 Résumé
 ---

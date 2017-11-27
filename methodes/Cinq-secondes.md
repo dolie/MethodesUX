@@ -1,6 +1,10 @@
 Cinq secondes
 ===
 
+Catégorie
+---
+Évaluation
+
 Résumé
 ---
 5 secondes, c'est le temps qu'il faut pour qu'un utilisateur ai un avis de votre site. Ce test vous aidera à savoir quelles informations ou éléments visuel résonnent le plus.

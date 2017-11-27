@@ -3,7 +3,7 @@ Brainstorming
 
 Catégorie
 ---
-Idéaliser
+Idéation
 
 Résumé
 ---
